@@ -4,7 +4,7 @@ img{
     border-radius: 25px;
 }
 p{
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: URW Chancery L, cursive;
    
    text-align: justify;
 }
@@ -12,18 +12,32 @@ p{
     display: flex;
     padding-left: 20px;
     margin: 15px;
-    
 
 }
 .nameandweb{
     margin: 20px;
 }
 .paragraphe{
+
     margin: 5%;
-    background-color: rgba(180, 180, 180, 0.2);
+    background-color: rgba(180, 180, 180, 0.6);
     border-radius: 25px;
 }
 .ts{
     left: 30px;
     margin: 10%;
+}
+body{
+    background-image: url("https://i.pinimg.com/originals/fd/7c/a8/fd7ca855764f1ecb64dc564de299a52e.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}   
+
+.websit{
+    left: 10px;
+    margin: 5%%;
+
+}
+h3{
+    font-family: URW Chancery L, cursive;
 }
