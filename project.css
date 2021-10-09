@@ -1,0 +1,44 @@
+
+///////higth///////////
+h1{
+    font-family: Stencil Std, fantasy;
+    
+}
+#ourbigtitle{
+    margin-right: 30%;
+}
+
+
+
+
+
+////////////midle/////////
+.midle{
+    margin: 0%;
+    position: relative;
+    }
+img{
+    height: 300px;
+    width: 500px;
+    border-radius: 25px;
+}
+p{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+   
+   text-align: justify;
+}
+.Apic{
+    display: flex;
+    padding-left: 0px;
+
+}
+.allp{
+    width: 480px;
+    margin: 15px;
+}
+h3{
+    font-family: Gill Sans, sans-serif;
+}
+.button4 {border-radius: 12px;}
+/////////////endofbody//////
+
