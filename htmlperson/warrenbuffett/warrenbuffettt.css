@@ -1,0 +1,29 @@
+img{
+    height: 300px;
+    width: 500px;
+    border-radius: 25px;
+}
+p{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+   
+   text-align: justify;
+}
+.firsttab{
+    display: flex;
+    padding-left: 20px;
+    margin: 15px;
+    
+
+}
+.nameandweb{
+    margin: 20px;
+}
+.paragraphe{
+    margin: 5%;
+    background-color: rgba(180, 180, 180, 0.2);
+    border-radius: 25px;
+}
+.ts{
+    left: 30px;
+    margin: 10%;
+}
