@@ -1,7 +1,9 @@
 
-///////higth///////////
+
 h1{
     font-family: Stencil Std, fantasy;
+    color: white;
+    
     
 }
 #ourbigtitle{
@@ -12,7 +14,7 @@ h1{
 
 
 
-////////////midle/////////
+
 .midle{
     margin: 0%;
     position: relative;
@@ -26,6 +28,7 @@ p{
     font-family: Comic Sans MS, Comic Sans, cursive;
    
    text-align: justify;
+   color: white;
 }
 .Apic{
     display: flex;
@@ -38,7 +41,12 @@ p{
 }
 h3{
     font-family: Gill Sans, sans-serif;
+    color: white;
 }
 .button4 {border-radius: 12px;}
-/////////////endofbody//////
+body{
+    background-image: url("https://www.meme-arsenal.com/memes/afdd3e8d87202ed1c77fd706668f2031.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}   
 
