@@ -46,12 +46,20 @@ h3{
     color: white;
 }
 .button4 {border-radius: 12px;}
+
 body{
-    background-image: url("https://www.meme-arsenal.com/memes/afdd3e8d87202ed1c77fd706668f2031.jpg");
+    background-color: black !important;
     background-size: cover;
     background-attachment: fixed;
+    
 }   
 .hight{
     text-align: center;
 }
-
+.endofbody{
+    opacity: 0;
+    
+}
+.do:hover{
+    color: rgb(212, 224, 37);
+}
