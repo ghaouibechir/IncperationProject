@@ -5,6 +5,7 @@ h1{
     color: white;
     
     
+    
 }
 #ourbigtitle{
     margin-right: 30%;
@@ -29,6 +30,7 @@ p{
    
    text-align: justify;
    color: white;
+   
 }
 .Apic{
     display: flex;
@@ -49,4 +51,7 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }   
+.hight{
+    text-align: center;
+}
 
