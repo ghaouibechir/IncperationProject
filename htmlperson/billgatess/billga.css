@@ -1,43 +1,67 @@
 img{
-    height: 400px;
-    width: 500px;
-    border-radius: 25px;
-    
-    
+  height: 400px;
+  width: 500px;
+  border-radius: 25px;
 }
 p{
-    font-family: URW Chancery L, cursive;
-   
-   text-align: justify;
+  font-family: URW Chancery L, cursive;
+  text-align: justify;
 }
 .firsttab{
-    display: flex;
-    padding-left: 20px;
-    margin: 15px;
+  display: flex;
+  padding-left: 20px;
+  margin: 15px;
 
 }
 .nameandweb{
-    margin: 20px;
+  margin: 20px;
 }
 .paragraphe{
 
-    margin: 5%;
-    background-color: rgba(180, 180, 180, 0);
-    border-radius: 25px;
+  margin: 5%;
+  background-color: rgba(180, 180, 180, 0);
+  border-radius: 25px;
 }
 .ts{
-    left: 30px;
-    margin: 10%;
+  left: 30px;
+  margin: 10%;
 }
 body{
-   background-color: white;
+  background-color: white;
 }   
 
 .websit{
-    left: 10px;
-    margin: 5%;
-
+  left: 10px;
+  margin: 5%;
 }
 h3{
-    font-family: URW Chancery L, cursive;
+  font-family: URW Chancery L, cursive;
 }
+
+#input-div{  
+  text-align: left;
+  font-size: 30pt; 
+  display: block;
+}
+
+
+.feedback{
+  width: 30%;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+.ss{
+  font-family: URW Chancery L, cursive;
+  text-align: justify;
+  margin: 2rem;
+  max-width: 50%;
+  padding: 2rem;
+  width:70%;
+  height:250px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 20pt;
+}
+.vd{
+  border-radius: 20px;
+}          

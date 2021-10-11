@@ -26,7 +26,7 @@
                     Co-founder and CEO of Facebook
                   </h3>
               </div>
-              <video width="600" controls>
+              <video class="vd" width="600" controls>
                 <source src="./Have freedom to fail _ Mark Zuckerberg.mp4" type="video/mp4">
                 <source src="./Have freedom to fail _ Mark Zuckerberg.mp4" type="video/ogg">
                 
@@ -51,16 +51,60 @@
 
 
     </div>
-
-
-
-
     <div>
-        <div>
+        <div id="feedback">
+            <div id="input-div">
+                <div  class="feedback" >
+                    <tr>
+                        <h3>Your Feedback</h3>
+                        <td>
+                            <textarea id="a" rows="4" cols="50" placeholder="write your feedback"></textarea>
+                        </td>
+                        
+                        <td><button type="button" onclick="add()"   class="btn btn-dark">Send</button></td>
 
+                    </tr>
+                </div>
+                <div id="sub">
+                    <div class="ss">
+                        <h4>John:</h4>
+                        
+                        <p>“Make the conversation a two-way street”</p>
+                    </div>
+
+                    <div class="ss">
+                        <h4>Cloudia:</h4>
+                    
+                        <p>“Focus on performance, not personality”</p>
+                    </div>
+                    <div class="ss">
+                        <h4>Amine:</h4>
+                        
+                        <p>“Keep the conversation going by following up”</p>
+                    </div>
+                    <div class="ss">
+                        <h4>Salah:</h4>
+                        
+                        <p>“Be specific.“</p>
+                    </div>
+                    <div class="ss">
+                        <h4>Alex:</h4>
+                        <p>“Be immediate”</p>
+                    </div>
+                </div>
+            </div>
         </div>
+
     </div>
+
+
+
+
+    
     <a  class="btn btn-light"  href="file:///C:/Users/bechi/OneDrive/Bureau/IncperationProject/project.html">Home</a>
+    <script src="https://code.jquery.com/jquery-3.6.0.js"
+        integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script src="./java.js"></script>
 </body>
 
 </html>

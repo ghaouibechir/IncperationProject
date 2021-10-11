@@ -4,5 +4,6 @@ $(document).ready(function(){
          $(this).next(".fanc").slideToggle();
 
      });
+     
 
 })
